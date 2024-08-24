@@ -1,0 +1,38 @@
+body{
+    margin: 20px 20px 20px 20px;
+    padding: 20px 40px 0px 40px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    justify-items: center;
+}
+img{
+    lighting-color: rgb(51, 4, 95)3, 226);
+    height: 210px;
+    width: 150;
+
+}
+.start{
+    background-color: black;
+    margin: 87px 290px 110px 370px;
+    padding: 50px;
+    height: 600px;
+    width: 260px;
+    border-width: 180px;
+
+}
+
+.middle{
+    color: white;
+    background-color: midnightblue;
+    margin-top: 0px;
+    margin-right: 13px;
+    margin-left: 4px;
+    margin-bottom: 10px;
+    border-radius: 11px;
+    min-height: auto;
+    min-width: min-content;
+    display: block;
+    justify-items: center;
+    align-items: center;
+}
